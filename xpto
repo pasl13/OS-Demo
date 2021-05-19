@@ -1,8 +1,3 @@
----
-summary: Learn about Front-End Architecture to customize the look & feel of your applications based on the OutSystems UI.
-tags: OutSystems_Front-End; OutSystems_UI; OutSystems_Style_Guide; OutSystems_Templates; OutSystems_Patterns; OutSystems_Themes
----
-
 # How to Build a Front-End Architecture in OutSystems
 
 This article provides you insights about how to build a front-end architecture in OutSystems, based in the OutSystems UI, and shows examples and use cases of how to evolve this architecture.
